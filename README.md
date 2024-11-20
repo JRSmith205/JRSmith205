@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java and Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to reach out to me at jgrail551@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
 
 <!---
 JRSmith205/JRSmith205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

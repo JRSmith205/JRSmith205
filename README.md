@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JRSmith205
-- 👀 I’m interested in backend software development and possibly UX design 
+- 👀 I’m interested in backend software development and UX design 
 - 🌱 I’m currently learning Java and Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to reach out to me at jgrail551@gmail.com
